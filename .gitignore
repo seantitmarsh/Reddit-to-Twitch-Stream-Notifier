@@ -4,7 +4,8 @@
 
 # Config Files
 config.ini
+praw.ini
 main_2.py
 Project plan.txt
-
-### Python template
+/Returns/
+/logfile.log
